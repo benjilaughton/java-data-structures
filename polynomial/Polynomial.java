@@ -4,7 +4,7 @@
 // Project 2
 
 
-package proj2;
+package polynomial;
 
 public class Polynomial {
     private Node head;

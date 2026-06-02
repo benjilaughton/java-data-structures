@@ -2,7 +2,7 @@
 // Project 3
 // CIS 2353
 
-package proj3;
+package changeStack;
 
 /**
  * test class to demonstrate the functionality of ChangeStack

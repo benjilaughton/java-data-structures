@@ -2,7 +2,7 @@
 // Project 3
 // CIS 2353
 
-package proj3;
+package changeStack;
 
 /**
  * custom exception for when operations are attempted on an empty stack

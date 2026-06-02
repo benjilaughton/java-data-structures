@@ -3,7 +3,7 @@
 // Fall 2025
 // Prof. Noah Clark
 
-package proj4;
+package triage;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;

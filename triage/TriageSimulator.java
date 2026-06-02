@@ -3,7 +3,7 @@
 // Fall 2025
 // Prof. Noah Clark
 
-package proj4;
+package triage;
 
 /**
  * simulates a hospital triage system using three priority queues

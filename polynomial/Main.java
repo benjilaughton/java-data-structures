@@ -4,7 +4,7 @@
 // Project 2
 
 
-package proj2;
+package polynomial;
 
 import java.io.*;
 import java.util.*;

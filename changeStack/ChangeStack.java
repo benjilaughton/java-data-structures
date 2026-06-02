@@ -2,7 +2,7 @@
 // Project 3
 // CIS 2353
 
-package proj3;
+package changeStack;
 
 /**
  * a stack-like data structure implemented using a linked chain of nodes

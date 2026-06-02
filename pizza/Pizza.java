@@ -1,4 +1,4 @@
-package proj1;
+package pizza;
 
 import java.util.ArrayList;
 
